@@ -1,0 +1,1 @@
+{"training_rmse": {"min": 0.022356540029350107}, "_timestamp": 1651500940, "_runtime": 1288, "valid_1_rmse": {"min": 0.02004312070283578}, "iteration": 156, "_step": 2880, "Validation sharpe": NaN}

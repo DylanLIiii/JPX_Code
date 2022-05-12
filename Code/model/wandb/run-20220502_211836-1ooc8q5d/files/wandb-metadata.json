@@ -1,0 +1,19 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-02T13:18:41.617826",
+    "startedAt": "2022-05-02T13:18:36.326929",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/dylan/Library/Jupyter/runtime/kernel-3736a9d4-262c-4369-be96-28afdf56cb21.json"
+    ],
+    "state": "running",
+    "program": "code_JPX/model/JPX_Model_Optuna-jvsc-bfbdf49e-8716-4935-84f7-f6cf9f939663.ipynb",
+    "root": "/Users/dylan/iCollections/\u684c\u9762\u6587\u4ef6/jpx-tokyo-stock-exchange-prediction",
+    "host": "macbook-pro",
+    "username": "dylan",
+    "executable": "/Users/dylan/miniforge3/envs/tensorflow_env/bin/python"
+}

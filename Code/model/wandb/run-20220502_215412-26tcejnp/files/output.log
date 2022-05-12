@@ -1,0 +1,331 @@
+
+{"LightGBMPruningCallback": "type", "PARAMS": "type", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "builtins": "module", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"LightGBMPruningCallback": "type", "PARAMS": "type", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "builtins": "module", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"LightGBMPruningCallback": "type", "PARAMS": "type", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calculateOutlier": "function", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"LightGBMPruningCallback": "type", "PARAMS": "type", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"LightGBMPruningCallback": "type", "PARAMS": "type", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+CPU times: user 6.25 s, sys: 251 ms, total: 6.5 s
+Wall time: 6.49 s
+{"LightGBMPruningCallback": "type", "PARAMS": "type", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+CPU times: user 4.16 s, sys: 572 ms, total: 4.73 s
+Wall time: 4.79 s
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+==================== val_0 ====================
+[387488 387489 387490 ... 774972 774973 774974]
+==================== val_1 ====================
+[ 774975  774976  774977 ... 1162459 1162460 1162461]
+==================== val_2 ====================
+[1162462 1162463 1162464 ... 1549946 1549947 1549948]
+==================== val_3 ====================
+[1549949 1549950 1549951 ... 1937433 1937434 1937435]
+==================== val_4 ====================
+[1937436 1937437 1937438 ... 2324920 2324921 2324922]
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "module", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+==================== fold 0 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.024865 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000379
+==================== fold 0 diagram ====================
+Save model corectly
+Off-line RMSE: 0.027284596407932658
+Validation sharpe = nan
+==================== fold 1 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.019896 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000413
+==================== fold 1 diagram ====================
+Save model corectly
+Off-line RMSE: 0.024423185856030736
+Validation sharpe = nan
+==================== fold 2 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.021386 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000409
+==================== fold 2 diagram ====================
+Save model corectly
+Off-line RMSE: 0.025467960930043717
+Validation sharpe = nan
+==================== fold 3 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.023301 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000462
+==================== fold 3 diagram ====================
+Save model corectly
+Off-line RMSE: 0.020823918453613387
+Validation sharpe = nan
+==================== fold 4 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.016404 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000459
+==================== fold 4 diagram ====================
+Save model corectly
+Off-line RMSE: 0.02004312070660689
+Validation sharpe = nan
+CPU times: user 2min 11s, sys: 35.7 s, total: 2min 47s
+Wall time: 2min 15s
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+==================== fold 0 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.023323 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000379
+==================== fold 0 diagram ====================
+Save model corectly
+Off-line RMSE: 0.027284596407932658
+Validation sharpe = nan
+==================== fold 1 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.033726 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000413
+==================== fold 1 diagram ====================
+Save model corectly
+Off-line RMSE: 0.024423185856030736
+Validation sharpe = nan
+==================== fold 2 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.024000 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000409
+==================== fold 2 diagram ====================
+Save model corectly
+Off-line RMSE: 0.025467960930043717
+Validation sharpe = nan
+==================== fold 3 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.026506 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000462
+==================== fold 3 diagram ====================
+Save model corectly
+Off-line RMSE: 0.020823918453613387
+Validation sharpe = nan
+==================== fold 4 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.017318 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000459
+==================== fold 4 diagram ====================
+Save model corectly
+Off-line RMSE: 0.02004312070660689
+Validation sharpe = nan
+CPU times: user 2min 14s, sys: 42.6 s, total: 2min 56s
+Wall time: 1min 12s
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+wandb: Network error (ReadTimeout), entering retry loop.
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "", "count": 2, "type": "dict"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+==================== fold 0 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.016982 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000379
+==================== fold 0 diagram ====================
+Save model corectly
+Off-line RMSE: 0.027284596407932658
+Validation sharpe = nan
+==================== fold 1 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.020571 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000413
+==================== fold 1 diagram ====================
+Save model corectly
+Off-line RMSE: 0.024423185856030736
+Validation sharpe = nan
+==================== fold 2 ====================
+[LightGBM] [Warning] Auto-choosing col-wise multi-threading, the overhead of testing was 0.125835 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000409
+==================== fold 2 diagram ====================
+Save model corectly
+Off-line RMSE: 0.025467960930043717
+Validation sharpe = nan
+==================== fold 3 ====================
+[LightGBM] [Warning] Auto-choosing col-wise multi-threading, the overhead of testing was 0.103328 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000462
+==================== fold 3 diagram ====================
+Save model corectly
+Off-line RMSE: 0.020823918453613387
+Validation sharpe = nan
+==================== fold 4 ====================
+[LightGBM] [Warning] Auto-choosing col-wise multi-threading, the overhead of testing was 0.059718 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000459
+==================== fold 4 diagram ====================
+Save model corectly
+Off-line RMSE: 0.02004312070660689
+Validation sharpe = nan
+CPU times: user 2min 56s, sys: 41.1 s, total: 3min 37s
+Wall time: 2min 28s
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+[34m[1mwandb[39m[22m: Starting wandb agent 🕵️
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Error while calling W&B API: entityName required for project query (<Response [400]>)
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Find detailed error logs at: /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/debug-cli.log
+Error: [31m<Response [400]>
+zsh:1: no such file or directory: lgb/uiomllbj
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+==================== fold 0 ====================
+[LightGBM] [Warning] Auto-choosing col-wise multi-threading, the overhead of testing was 0.078717 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000379
+==================== fold 0 diagram ====================
+Save model corectly
+Off-line RMSE: 0.027284596407932658
+Validation sharpe = nan
+==================== fold 1 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.016820 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4346
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000413
+==================== fold 1 diagram ====================
+Save model corectly
+Off-line RMSE: 0.024423185856030736
+Validation sharpe = nan
+==================== fold 2 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.016320 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000409
+==================== fold 2 diagram ====================
+Save model corectly
+Off-line RMSE: 0.025467960930043717
+Validation sharpe = nan
+==================== fold 3 ====================
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.033783 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000462
+==================== fold 3 diagram ====================
+Save model corectly
+Off-line RMSE: 0.020823918453613387
+Validation sharpe = nan
+==================== fold 4 ====================
+[LightGBM] [Warning] Auto-choosing col-wise multi-threading, the overhead of testing was 0.185908 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 4347
+[LightGBM] [Info] Number of data points in the train set: 1937436, number of used features: 18
+[LightGBM] [Info] Start training from score 0.000459
+==================== fold 4 diagram ====================
+Save model corectly
+Off-line RMSE: 0.02004312070660689
+Validation sharpe = nan
+CPU times: user 2min 28s, sys: 43.6 s, total: 3min 12s
+Wall time: 1min 11s
+{"Decimal": "type", "LightGBMPruningCallback": "type", "Objective": "function", "PARAMS": "type", "ROUND_HALF_UP": "str", "SecuritiesCode": "ndarray", "StandardScaler": "type", "TimeSeriesSplit": "ABCMeta", "adjust_price": "function", "applyFactors": "function", "applyStandN": "function", "best_params": "dict", "builtins": "module", "calUpNumber": "function", "calc_spread_return_sharpe": "function", "calculateOutlier": "function", "df": "DataFrame", "evals_result": "dict", "feature_importants": "list", "features": "list", "gc": "module", "indexable": "function", "joblib": "module", "lgb": "module", "light_gbm": "function", "log_summary": "function", "mean_squared_error": "function", "models": "list", "np": "module", "optuna": "function", "os": "module", "pd": "module", "plot_contour": "function", "plot_intermediate_values": "function", "plot_optimization_history": "function", "plot_parallel_coordinate": "function", "plot_param_importances": "function", "plt": "module", "px": "module", "reduce_mem_usage": "function", "returnBoll": "function", "returnEWM": "function", "returnMAE": "function", "returnMAEVolume": "function", "returnSTDVolume": "function", "returnUpDate": "function", "returnWillingness": "function", "scores": "list", "set_rank": "function", "setup_cv": "function", "site": "module", "stock_price_data": "DataFrame", "sys": "module", "tf": "module", "wandb": "module", "wandb_callback": "function", "warnings": "module"}
+{"shape": "", "count": 2, "type": "dict"}
+{"shape": "(2000,)", "count": 2000, "type": "ndarray"}
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (SSLError), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ProxyError), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.
+wandb: Network error (ProxyError), entering retry loop.
+wandb: Network error (ReadTimeout), entering retry loop.

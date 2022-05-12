@@ -1,0 +1,61 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.15
+    framework: lightgbm
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    m:
+    - 1: training_rmse
+      6:
+      - 3
+      7:
+      - 1
+    - 1: valid_1_rmse
+      6:
+      - 3
+      7:
+      - 1
+    python_version: 3.8.13
+    start_time: 1651499652
+    t:
+      1:
+      - 2
+      - 3
+      - 5
+      - 8
+      - 35
+      - 53
+      - 55
+      3:
+      - 7
+      - 25
+      4: 3.8.13
+      5: 0.12.15
+      8:
+      - 1
+      - 4
+      - 5
+early_stopping_round:
+  desc: null
+  value: 100
+learning_rate:
+  desc: null
+  value: 0.1
+metric:
+  desc: null
+  value: rmse
+min_child_weight:
+  desc: null
+  value: 1
+n_estimators:
+  desc: null
+  value: 200
+num_iterations:
+  desc: null
+  value: 200
+objective:
+  desc: null
+  value: regression

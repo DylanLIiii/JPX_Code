@@ -1,0 +1,104 @@
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from /Users/dylan/.config/wandb/settings
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/settings
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from environment variables: {}
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:_log_setup():438] Logging user logs to /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/run-20220502_214938-187mjri2/logs/debug.log
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:_log_setup():439] Logging internal logs to /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/run-20220502_214938-187mjri2/logs/debug-internal.log
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:_jupyter_setup():388] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x328390160>
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:init():472] calling init triggers
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:init():475] wandb.init called with sweep_config: {}
+config: {}
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:init():491] re-initializing run, found existing run on stack: 2jdl443y
+2022-05-02 21:49:38,615 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 996, in init
+    run = wi.init()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 504, in init
+    self._wl._global_run_stack[-1].finish()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 256, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 222, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1677, in finish
+    return self._finish(exit_code, quiet)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1683, in _finish
+    tel.feature.finish = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:49:58,466 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:50:19,146 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:52:03,890 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:52:14,357 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown

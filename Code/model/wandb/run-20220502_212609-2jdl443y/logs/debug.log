@@ -1,0 +1,339 @@
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from /Users/dylan/.config/wandb/settings
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/settings
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from environment variables: {}
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_init.py:_log_setup():438] Logging user logs to /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/run-20220502_212609-2jdl443y/logs/debug.log
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_init.py:_log_setup():439] Logging internal logs to /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/run-20220502_212609-2jdl443y/logs/debug-internal.log
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_init.py:init():472] calling init triggers
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_init.py:init():475] wandb.init called with sweep_config: {}
+config: {}
+2022-05-02 21:26:09,932 INFO    MainThread:58477 [wandb_init.py:init():491] re-initializing run, found existing run on stack: 1ooc8q5d
+2022-05-02 21:26:09,933 INFO    MainThread:58477 [wandb_run.py:_finish():1684] finishing run dylanli/JPX_lgb/1ooc8q5d
+2022-05-02 21:26:09,933 INFO    MainThread:58477 [jupyter.py:save_history():432] not saving jupyter history
+2022-05-02 21:26:09,934 INFO    MainThread:58477 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-02 21:26:09,934 INFO    MainThread:58477 [wandb_init.py:_jupyter_teardown():370] cleaning up jupyter logic
+2022-05-02 21:26:09,934 INFO    MainThread:58477 [wandb_run.py:_atexit_cleanup():1865] got exitcode: 0
+2022-05-02 21:26:09,934 INFO    MainThread:58477 [wandb_run.py:_restore():1837] restore
+2022-05-02 21:26:11,648 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 705
+}
+
+2022-05-02 21:26:12,980 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 705
+}
+
+2022-05-02 21:26:13,425 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 705
+}
+
+2022-05-02 21:26:13,971 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,078 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,183 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,287 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,392 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,493 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,600 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,706 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,811 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:14,917 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,019 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,123 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 705
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,228 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 8616
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,333 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,438 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,542 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,648 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,752 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:15,857 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:17,017 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+
+2022-05-02 21:26:18,017 INFO    MainThread:58477 [wandb_run.py:_on_finish():1995] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 14559
+  total_bytes: 14559
+}
+local_info {
+}
+
+2022-05-02 21:26:19,371 INFO    MainThread:58477 [wandb_run.py:_footer_history_summary_info():3087] rendering history
+2022-05-02 21:26:19,371 INFO    MainThread:58477 [wandb_run.py:_footer_history_summary_info():3116] rendering summary
+2022-05-02 21:26:19,372 INFO    MainThread:58477 [wandb_run.py:_footer_sync_info():3044] logging synced files
+2022-05-02 21:26:19,374 INFO    MainThread:58477 [wandb_init.py:init():525] starting backend
+2022-05-02 21:26:19,374 INFO    MainThread:58477 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2022-05-02 21:26:19,375 INFO    MainThread:58477 [backend.py:ensure_launched():219] starting backend process...
+2022-05-02 21:26:19,381 INFO    MainThread:58477 [backend.py:ensure_launched():224] started backend process with pid: 63823
+2022-05-02 21:26:19,381 INFO    MainThread:58477 [wandb_init.py:init():534] backend started and connected
+2022-05-02 21:26:19,397 INFO    MainThread:58477 [wandb_run.py:_label_probe_notebook():1082] probe notebook
+2022-05-02 21:26:19,401 INFO    MainThread:58477 [wandb_run.py:_label_probe_notebook():1092] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-05-02 21:26:19,401 INFO    MainThread:58477 [wandb_init.py:init():598] updated telemetry
+2022-05-02 21:26:19,402 INFO    MainThread:58477 [wandb_init.py:init():629] communicating run to backend with 30 second timeout
+2022-05-02 21:26:20,502 INFO    MainThread:58477 [wandb_run.py:_on_init():1922] communicating current version
+2022-05-02 21:26:20,875 INFO    MainThread:58477 [wandb_run.py:_on_init():1926] got version response upgrade_message: "wandb version 0.12.15 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-05-02 21:26:20,875 INFO    MainThread:58477 [wandb_init.py:init():660] starting run threads in backend
+2022-05-02 21:26:25,167 INFO    MainThread:58477 [wandb_run.py:_console_start():1896] atexit reg
+2022-05-02 21:26:25,167 INFO    MainThread:58477 [wandb_run.py:_redirect():1769] redirect: SettingsConsole.WRAP
+2022-05-02 21:26:25,167 INFO    MainThread:58477 [wandb_run.py:_redirect():1806] Wrapping output streams.
+2022-05-02 21:26:25,168 INFO    MainThread:58477 [wandb_run.py:_redirect():1830] Redirects installed.
+2022-05-02 21:26:25,168 INFO    MainThread:58477 [wandb_init.py:init():685] run started, returning control to user process
+2022-05-02 21:49:18,300 INFO    MainThread:58477 [wandb_run.py:_config_callback():1129] config_cb None None {'objective': 'regression', 'metric': 'rmse', 'learning_rate': 0.1, 'n_estimators': 200, 'min_child_weight': 1}
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from /Users/dylan/.config/wandb/settings
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/settings
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Loading settings from environment variables: {}
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_setup.py:_flush():75] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:_log_setup():438] Logging user logs to /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/run-20220502_214938-187mjri2/logs/debug.log
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:_log_setup():439] Logging internal logs to /Users/dylan/iCollections/桌面文件/jpx-tokyo-stock-exchange-prediction/code_JPX/model/wandb/run-20220502_214938-187mjri2/logs/debug-internal.log
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:_jupyter_setup():388] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x328390160>
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:init():472] calling init triggers
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:init():475] wandb.init called with sweep_config: {}
+config: {}
+2022-05-02 21:49:38,607 INFO    MainThread:58477 [wandb_init.py:init():491] re-initializing run, found existing run on stack: 2jdl443y
+2022-05-02 21:49:38,615 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 996, in init
+    run = wi.init()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 504, in init
+    self._wl._global_run_stack[-1].finish()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 256, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 222, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1677, in finish
+    return self._finish(exit_code, quiet)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1683, in _finish
+    tel.feature.finish = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:49:58,466 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:50:19,146 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:52:03,890 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
+2022-05-02 21:52:14,357 ERROR   MainThread:58477 [wandb_init.py:init():1023] error
+Traceback (most recent call last):
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 993, in init
+    wi.setup(kwargs)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 176, in setup
+    tel.feature.set_init_tags = True
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/lib/telemetry.py", line 43, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 571, in _telemetry_callback
+    self._telemetry_flush()
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 582, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_shared.py", line 73, in _publish_telemetry
+    self._publish(rec)
+  File "/Users/dylan/miniforge3/envs/tensorflow_env/lib/python3.8/site-packages/wandb/sdk/interface/interface_queue.py", line 49, in _publish
+    raise Exception("The wandb backend process has shutdown")
+Exception: The wandb backend process has shutdown
